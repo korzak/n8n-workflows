@@ -356,7 +356,13 @@
         1424,
         704
       ],
-      "typeVersion": 1.3
+      "typeVersion": 1.3,
+      "credentials": {
+        "googleCalendarOAuth2Api": {
+          "id": "4k6JeM6TYbL3dQth",
+          "name": "Google Calendar account"
+        }
+      }
     },
     {
       "parameters": {
@@ -460,7 +466,13 @@
         2016,
         592
       ],
-      "typeVersion": 1.3
+      "typeVersion": 1.3,
+      "credentials": {
+        "googleCalendarOAuth2Api": {
+          "id": "4k6JeM6TYbL3dQth",
+          "name": "Google Calendar account"
+        }
+      }
     },
     {
       "parameters": {
@@ -497,6 +509,6 @@
   "staticData": null,
   "tags": [],
   "triggerCount": 0,
-  "updatedAt": "2026-03-02T07:07:19.668Z",
-  "versionId": "6966d6c8-e2e4-4b47-9cbf-b60b7938248c"
+  "updatedAt": "2026-03-06T18:20:28.827Z",
+  "versionId": "dc95996d-30bb-4552-af61-fc69129971bf"
 }
